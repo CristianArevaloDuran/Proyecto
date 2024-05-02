@@ -1,0 +1,16 @@
+.root {
+    -fx-background-color: #222;
+    -fx-background-radius: 20px;
+}
+
+.mainPane {
+    -fx-background-color: #fff;
+    -fx-background-radius: 20px;
+    -fx-opacity: .2;
+}
+
+.toolBar {
+    -fx-background-color: #fff;
+    -fx-background-radius: 20px 20px 5px 5px;
+    -fx-opacity: .8;
+}
